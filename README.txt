@@ -5,7 +5,7 @@ Responsive, Bootstrap Mobile First Web Template
 Author URI: http://webthemez.com/
 
 
-Eden Real estate template – is a real estate builders theme especially for industry that need modern and elegant looks. This template is developed on HTML5, Bootstrap 3.3.1 and fully Responsive site. This template suitable for Real estate, Builders, Constructions, Architecture sites. This theme is easy to customize as per you requirements.
+This template – is a real estate builders theme especially for industry that need modern and elegant looks. This template is developed on HTML5, Bootstrap 3.3.1 and fully Responsive site. This template suitable for Real estate, Builders, Constructions, Architecture sites. This theme is easy to customize as per you requirements.
 
 
 Credits
